@@ -1,1 +1,1 @@
-shekk basics
+shell basics
