@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #uses an until loop to display "Best school" 10 times
+
 count=0
 
 until [ $count -eq 10 ]
