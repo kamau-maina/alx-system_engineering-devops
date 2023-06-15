@@ -1,0 +1,1 @@
+in this project, i deployed my AirBnB clone. i configured nginx on the web servers provided to me by ALX to serve a WSGI app running through Gunicorn. i also set up an upstart script to keep the application running.
